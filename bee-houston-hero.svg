@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <rect width="1600" height="900" fill="#F6F9FC"/>
+  <rect width="1600" height="900" fill="url(#a)"/>
+  <circle cx="1240" cy="160" r="220" fill="#8FD000" fill-opacity=".18"/>
+  <circle cx="260" cy="720" r="260" fill="#F7B32B" fill-opacity=".22"/>
+  <path d="M0 710C220 590 430 560 630 610C842 663 1018 804 1600 654V900H0V710Z" fill="#002B5C" fill-opacity=".9"/>
+  <g opacity=".28">
+    <path d="M1034 280C1034 237.026 1068.83 202 1111.5 202C1154.17 202 1189 237.026 1189 280C1189 322.974 1154.17 358 1111.5 358C1068.83 358 1034 322.974 1034 280Z" fill="#F7B32B"/>
+    <path d="M1078 221H1145V339H1078V221Z" fill="#002B5C"/>
+    <path d="M1019 255H1203V305H1019V255Z" fill="#002B5C"/>
+  </g>
+  <g opacity=".18">
+    <path d="M230 220C230 180.788 261.788 149 301 149C340.212 149 372 180.788 372 220C372 259.212 340.212 291 301 291C261.788 291 230 259.212 230 220Z" fill="#F7B32B"/>
+    <path d="M270 170H331V270H270V170Z" fill="#002B5C"/>
+    <path d="M216 199H386V241H216V199Z" fill="#002B5C"/>
+  </g>
+  <defs>
+    <linearGradient id="a" x1="140" y1="108" x2="1315" y2="852" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF6D6"/>
+      <stop offset=".48" stop-color="#FFFDF6"/>
+      <stop offset="1" stop-color="#DDEAF7"/>
+    </linearGradient>
+  </defs>
+</svg>

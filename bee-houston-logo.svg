@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="90" viewBox="0 0 320 90" fill="none">
+  <rect width="320" height="90" rx="18" fill="#002B5C"/>
+  <circle cx="46" cy="45" r="24" fill="#F7B32B"/>
+  <path d="M34 45C34 38.373 39.373 33 46 33C52.627 33 58 38.373 58 45C58 51.627 52.627 57 46 57C39.373 57 34 51.627 34 45Z" fill="#FFF3BF"/>
+  <path d="M41 36H51V54H41V36Z" fill="#002B5C"/>
+  <path d="M35 41H57V49H35V41Z" fill="#002B5C"/>
+  <path d="M26 37C21 31 23 24 29 23C35 22 38 27 40 32" stroke="#DCEEFF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M66 37C71 31 69 24 63 23C57 22 54 27 52 32" stroke="#DCEEFF" stroke-width="4" stroke-linecap="round"/>
+  <text x="84" y="39" fill="#FFFFFF" font-family="Outfit, Arial, sans-serif" font-size="20" font-weight="800">BEE REMOVAL</text>
+  <text x="84" y="62" fill="#8FD000" font-family="Outfit, Arial, sans-serif" font-size="24" font-weight="800">OF HOUSTON</text>
+</svg>
