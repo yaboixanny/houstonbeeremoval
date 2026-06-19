@@ -1007,6 +1007,13 @@ footer {
     z-index: 10;
 }
 
+@media (min-width: 992px) {
+    .team-grid,
+    .feature-grid-v3 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
 .feature-card-v3 {
     background: rgba(255, 255, 255, 0.03);
     backdrop-filter: blur(12px);
